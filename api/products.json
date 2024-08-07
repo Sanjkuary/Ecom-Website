@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 5999.99,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 999.99,
+    "stock": 100,
+    "image": "../images/iphone.png",
+    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 249.99,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Watches",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 399.99,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 299.99,
+    "stock": 30,
+    "image": "../images/speakers.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 4999.99,
+    "stock": 20,
+    "image": "../images/tv.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 7,
+    "name": "Air Conditioner",
+    "category": "House Hold",
+    "brand": "LG",
+    "price": 19999.99,
+    "stock": 10,
+    "image": "../images/AC1.png",
+    "description": "AC with 1.5 ton, inverter compatible, digital display, and a stylish model with diff colours, DUAL Inverter Compressor™ with 10 Year Warranty, Pre-Filter, Simple and Slim Design."
+  },
+  {
+    "id": 8,
+    "name": "Washing Machine",
+    "category": "House Hold",
+    "brand": "LG",
+    "price": 9999.99,
+    "stock": 15,
+    "image": "../images/Wash.png",
+    "description": "Comprises a barrel or a drum, an inlet hose pipe along with a valve, a drain pipe, a water filter, a specialized motor, paddles, a circuit board, and a timer."
+  },
+  {
+    "id": 9,
+    "name": "Refrigerator",
+    "category": "House Hold",
+    "brand": "Samsung",
+    "price": 15999.99,
+    "stock": 20,
+    "image": "../images/Ref1.png",
+    "description": "Fridge with 225Ltr, inverter compatible, Autocut, and always fresh air within it with auto deforce."
+  },
+  {
+    "id": 10,
+    "name": "Micorwave",
+    "category": "House Hold",
+    "brand": "Samsung",
+    "price": 3999.99,
+    "stock": 12,
+    "image": "../images/Microwave.png",
+    "description": "Microwave oven is a relatively small, boxlike oven that raises the temperature of food by subjecting it to a high-frequency electromagnetic field. "
+  },
+  {
+    "id": 11,
+    "name": "Dishwasher",
+    "category": "House Hold",
+    "brand": "Whirlpool",
+    "price": 14999.99,
+    "stock": 102,
+    "image": "../images/Dish.png",
+    "description": "Dishwasher features like the 1-Hour Wash and Quick Wash Cycles and energy saving options that help you conserve hot water."
+  },
+  {
+    "id": 12,
+    "name": "Air Purifier",
+    "category": "House Hold",
+    "brand": "Philips",
+    "price": 2999.99,
+    "stock": 10,
+    "image": "../images/AirP.png",
+    "description": "Air purifiers are portable devices that combine an internal filter and fan to pull in unwanted particles from the air in a specific room."
+  },
+  {
+    "id": 13,
+    "name": "Fan",
+    "category": "Electronics",
+    "brand": "Philips",
+    "price": 899.99,
+    "stock": 30,
+    "image": "../images/Fan.png",
+    "description": "Fan consists of a rotating arrangement of vanes or blades, made of iton, plastic, or metal, which act on the air."
+  },
+  {
+    "id": 14,
+    "name": "Cooler",
+    "category": "Electronics",
+    "brand": "Usha",
+    "price": 1999.99,
+    "stock": 20,
+    "image": "../images/Cooler.png",
+    "description": "Air cooler used to cool the air in a room or an outdoor space. It operates by drawing in hot air and passing it through moistened pads, which cools the air as it evaporates the water."
+  },
+  {
+    "id": 15,
+    "name": "Gas Stove",
+    "category": "House Hold",
+    "brand": "Philips",
+    "price": 899.99,
+    "stock": 18,
+    "image": "../images/Gasstove.png",
+    "description": "Gas stoves an open flame to cook food both inside the oven cavity and on the stovetop."
+  },
+  {
+    "id": 16,
+    "name": "Iron",
+    "category": "Electronics",
+    "brand": "LG",
+    "price": 599.99,
+    "stock": 30,
+    "image": "../images/Iron.png",
+    "description": "Iron is a lustrous, ductile, malleable, silver-gray metal and known to exist in four distinct crystalline forms. Iron rusts in damp air, but not in dry air."
+  },
+  {
+    "id": 17,
+    "name": "Kettle",
+    "category": "Electronics",
+    "brand": "Philips",
+    "price": 299.99,
+    "stock": 20,
+    "image": "../images/Kittle.png",
+    "description": "Kettle is a pot made for boiling water. Most kettles are metal, with a lid and a spout. "
+  },
+  {
+    "id": 18,
+    "name": "Vacuum Cleaner",
+    "category": "House Hold",
+    "brand": "Astol Cleantech",
+    "price": 1999.99,
+    "stock": 10,
+    "image": "../images/Vacuum.png",
+    "description": "Vacuum Cleaners are apparatus that remove and clean many kinds of surfaces by means of sucking and removing dust and small particles."
+  }
+]
