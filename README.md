@@ -1,3 +1,9 @@
+
+
+You can check it out on this page: https://sanjeev-store.netlify.app/
+
+
+
 ====================================================================
 **_ Building an Ecommerce Website with Vanilla JavaScript _**
 ====================================================================
